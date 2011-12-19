@@ -2,10 +2,10 @@ Ruby on Rails Tutorial. Learn Rails by Example by Michael Hartl
 http://ruby.railstutorial.org/ruby-on-rails-tutorial-book
 
         -------- Chapter 1 From zero to deploy
-        1.1 Introduction
-        1.1.1 Comments for various readers
-        1.1.2 “Scaling” Rails
-        1.1.3 Conventions in this book
+done    1.1 Introduction
+done    1.1.1 Comments for various readers
+done    1.1.2 “Scaling” Rails
+done    1.1.3 Conventions in this book
         1.2 Up and running
         1.2.1 Development environments
         IDEs
@@ -279,10 +279,15 @@ http://ruby.railstutorial.org/ruby-on-rails-tutorial-book
         13.3 Exercises
 ====================================================== NOTES
 -------- Chapter 1 From zero to deploy
+
 1.1 Introduction
-1.1.1 Comments for various readers
-1.1.2 “Scaling” Rails
-1.1.3 Conventions in this book
+    Scaffold is not the only way?
+    companies: Posterous, UserVoice, 37signals, Shopify, GitHub, Scribd, Hulu, the Yellow Pages
+    ENTP, thoughtbot, Pivotal Labs, and Hashrocket
+    uses DSL, REST
+    Merb merged into Rails
+    Books.. I know them all. Their names, I mean.
+
 1.2 Up and running
 1.2.1 Development environments
 IDEs
