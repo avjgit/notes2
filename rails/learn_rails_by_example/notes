@@ -19,7 +19,7 @@ done    1.3.2 Adding and committing
 done    1.3.3 What good does Git do you? // rm -rf, then checkout -f - good!
 done    1.3.4 GitHub
         1.3.5 Branch, edit, commit, merge
-        Branch
+        Branch //git checkout -b mybranch
         Edit
         Commit
         Merge
