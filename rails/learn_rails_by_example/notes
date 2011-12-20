@@ -4,12 +4,12 @@ http://ruby.railstutorial.org/ruby-on-rails-tutorial-book
         -------- Chapter 1 From zero to deploy
 done    1.1 Introduction
 done    1.1.1 Comments for various readers
-done    1.1.2 “Scaling” Rails
+done    1.1.2 Scaling Rails
 done    1.1.3 Conventions in this book
 done    1.2 Up and running
 done    1.2.1 Development environments
 done    1.2.2 Ruby, RubyGems, Rails, and Git
-        1.2.3 The first application
+done        1.2.3 The first application
         1.2.4 Bundler
         1.2.5 rails server
         1.2.6 Model-view-controller (MVC)
@@ -285,6 +285,27 @@ done    1.2.2 Ruby, RubyGems, Rails, and Git
     1.2.2 Ruby, RubyGems, Rails, and Git
         I have it all..
     1.2.3 The first application
+        app mvc
+        config
+        database
+        documentation
+        libraries
+        logs
+        images & css
+        script/ rails - code generation
+        tests
+        temporary files
+        3rd party plugins
+        readme - description
+        rakefile?
+        gemifile - gem dependencies
+        config.ru - rack config?
+        .gitignore
+
+        
+        
+        
+        
     1.2.4 Bundler
     1.2.5 rails server
     1.2.6 Model-view-controller (MVC)
