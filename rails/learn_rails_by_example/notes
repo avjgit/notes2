@@ -13,17 +13,17 @@ done    1.2.3 The first application
 done    1.2.4 Bundler
 done    1.2.5 rails server
 done    1.2.6 Model-view-controller (MVC)
-        1.3 Version control with Git
+done    1.3 Version control with Git
 done    1.3.1 Installation and setup
 done    1.3.2 Adding and committing
 done    1.3.3 What good does Git do you? // rm -rf, then checkout -f - good!
 done    1.3.4 GitHub
-        1.3.5 Branch, edit, commit, merge
-        Branch //git checkout -b mybranch
-        Edit
-        Commit
-        Merge
-        Push
+done    1.3.5 Branch, edit, commit, merge
+done    Branch //git checkout -b mybranch
+done    Edit //renaming: git mv readme readme.markdown
+done    Commit // knew that
+done    Merge // when branching
+done    Push // just "push", no "push origin master"
         1.4 Deploying
         1.4.1 Heroku setup
         1.4.2 Heroku deployment, step one
