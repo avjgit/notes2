@@ -6,18 +6,9 @@ done    1.1 Introduction
 done    1.1.1 Comments for various readers
 done    1.1.2 “Scaling” Rails
 done    1.1.3 Conventions in this book
-        1.2 Up and running
-        1.2.1 Development environments
-        IDEs
-        Text editors and command lines
-        Browsers
-        A note about tools
-        1.2.2 Ruby, RubyGems, Rails, and Git
-        Rails Installer (Windows)
-        Install Git
-        Install Ruby
-        Install RubyGems
-        Install Rails
+done    1.2 Up and running
+done    1.2.1 Development environments
+done    1.2.2 Ruby, RubyGems, Rails, and Git
         1.2.3 The first application
         1.2.4 Bundler
         1.2.5 rails server
@@ -289,21 +280,15 @@ done    1.1.3 Conventions in this book
     Books.. I know them all. Their names, I mean.
 
 1.2 Up and running
-1.2.1 Development environments
-IDEs
-Text editors and command lines
-Browsers
-A note about tools
-1.2.2 Ruby, RubyGems, Rails, and Git
-Rails Installer (Windows)
-Install Git
-Install Ruby
-Install RubyGems
-Install Rails
-1.2.3 The first application
-1.2.4 Bundler
-1.2.5 rails server
-1.2.6 Model-view-controller (MVC)
+    1.2.1 Development environments
+        Ubuntu, so - gedit it is
+    1.2.2 Ruby, RubyGems, Rails, and Git
+        I have it all..
+    1.2.3 The first application
+    1.2.4 Bundler
+    1.2.5 rails server
+    1.2.6 Model-view-controller (MVC)
+
 1.3 Version control with Git
 1.3.1 Installation and setup
 First-time system setup
