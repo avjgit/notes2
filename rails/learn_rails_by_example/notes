@@ -1,7 +1,7 @@
 Ruby on Rails Tutorial. Learn Rails by Example by Michael Hartl
 http://ruby.railstutorial.org/ruby-on-rails-tutorial-book
 
-        -------- Chapter 1 From zero to deploy
+DONE    -------- Chapter 1 From zero to deploy
 done    1.1 Introduction
 done    1.1.1 Comments for various readers
 done    1.1.2 Scaling Rails
@@ -24,12 +24,12 @@ done    Edit //renaming: git mv readme readme.markdown
 done    Commit // knew that
 done    Merge // when branching
 done    Push // just "push", no "push origin master"
-        1.4 Deploying
-        1.4.1 Heroku setup
-        1.4.2 Heroku deployment, step one
-        1.4.3 Heroku deployment, step two
-        1.4.4 Heroku commands
-        1.5 Conclusion
+done    1.4 Deploying
+done    1.4.1 Heroku setup
+done    1.4.2 Heroku deployment, step one
+done    1.4.3 Heroku deployment, step two
+done    1.4.4 Heroku commands
+done    1.5 Conclusion
         -------- Chapter 2 A demo app
         2.1 Planning the application
         2.1.1 Modeling users
