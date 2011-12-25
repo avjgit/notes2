@@ -30,14 +30,14 @@ done    1.4.2 Heroku deployment, step one
 done    1.4.3 Heroku deployment, step two
 done    1.4.4 Heroku commands
 done    1.5 Conclusion
-        -------- Chapter 2 A demo app
-        2.1 Planning the application
-        2.1.1 Modeling users
-        2.1.2 Modeling microposts
-        2.2 The Users resource
-        2.2.1 A user tour
-        2.2.2 MVC in action
-        2.2.3 Weaknesses of this Users resource
+~       -------- Chapter 2 A demo app
+done    2.1 Planning the application
+done    2.1.1 Modeling users
+done    2.1.2 Modeling microposts
+        2.2 The Users resource // rake is Ruby make
+done    2.2.1 A user tour
+read    2.2.2 MVC in action
+read    2.2.3 Weaknesses of this Users resource
         2.3 The Microposts resource
         2.3.1 A micropost microtour
         2.3.2 Putting the micro in microposts
