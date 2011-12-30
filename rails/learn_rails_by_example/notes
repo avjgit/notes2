@@ -43,7 +43,7 @@ done    2.3.1 A micropost microtour
 done    2.3.2 Putting the micro in microposts
 done    2.3.3 A user has_many microposts // rails console
 done    2.3.4 Inheritance hierarchies
-skip    2.3.5 Deploying the demo app
+skiped  2.3.5 Deploying the demo app
 done    2.4 Conclusion
         -------- Chapter 3 Mostly static pages
         3.1 Static pages
