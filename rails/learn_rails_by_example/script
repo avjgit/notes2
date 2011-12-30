@@ -1,0 +1,13 @@
+rails new my_app
+cd my_app
+git init
+git add .
+git commit -m "initial"
+#create repo on github
+git remote add origin git@github.com:avjgit/my_app.git
+git push origin master
+rails generate scaffold User name:string meail:string
+rails generate scaffold Micropost content:string user_id:integer
+bundle exec rake db:migrate
+rails s
+

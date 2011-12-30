@@ -1,7 +1,7 @@
 Ruby on Rails Tutorial. Learn Rails by Example by Michael Hartl
 http://ruby.railstutorial.org/ruby-on-rails-tutorial-book
 
-DONE    -------- Chapter 1 From zero to deploy
+done    -------- Chapter 1 From zero to deploy
 done    1.1 Introduction
 done    1.1.1 Comments for various readers
 done    1.1.2 Scaling Rails
@@ -30,20 +30,20 @@ done    1.4.2 Heroku deployment, step one
 done    1.4.3 Heroku deployment, step two
 done    1.4.4 Heroku commands
 done    1.5 Conclusion
-~       -------- Chapter 2 A demo app
+done    -------- Chapter 2 A demo app
 done    2.1 Planning the application
 done    2.1.1 Modeling users
 done    2.1.2 Modeling microposts
-        2.2 The Users resource // rake is Ruby make
+done    2.2 The Users resource // rake is Ruby make
 done    2.2.1 A user tour
-done    2.2.2 MVC in action
+done    2.2.2 MVC in action //GET, POST, PULL, DELETE
 done    2.2.3 Weaknesses of this Users resource
-        2.3 The Microposts resource
+done    2.3 The Microposts resource
 done    2.3.1 A micropost microtour
 done    2.3.2 Putting the micro in microposts
-done    2.3.3 A user has_many microposts
-        2.3.4 Inheritance hierarchies
-        2.3.5 Deploying the demo app
+done    2.3.3 A user has_many microposts // rails console
+done    2.3.4 Inheritance hierarchies
+skip    2.3.5 Deploying the demo app
         2.4 Conclusion
         -------- Chapter 3 Mostly static pages
         3.1 Static pages
