@@ -1,4 +1,4 @@
-"Ruby on Rails Tutorial. Learn Rails by Example by Michael Hartl":http://ruby.railstutorial.org/ruby-on-rails-tutorial-book
+"h1. Ruby on Rails Tutorial. Learn Rails by Example by Michael Hartl":http://ruby.railstutorial.org/ruby-on-rails-tutorial-book
 
   -------- Chapter 1 From zero to deploy
   1.1 Introduction
@@ -34,7 +34,7 @@
   2.1.1 Modeling users
   2.1.2 Modeling microposts
   2.2 The Users resource // rake is Ruby make
-    2.2.1 A user tour
+  2.2.1 A user tour
   2.2.2 MVC in action //GET, POST, PULL, DELETE
   2.2.3 Weaknesses of this Users resource
   2.3 The Microposts resource
