@@ -1,4 +1,5 @@
 [Ruby on Rails Tutorial. Learn Rails by Example by Michael Hartl]
+=================================================================
 (http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
 
 + -------- Chapter 1 From zero to deploy
